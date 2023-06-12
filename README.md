@@ -10,3 +10,6 @@ You are working for the Bureau of Labor Statistics with the United States govern
 
 ## Tech used:
 T-SQL, in Azure Data Studio
+
+# Database model:
+![](9to5 Database model.jpg)
