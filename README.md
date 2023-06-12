@@ -12,4 +12,4 @@ You are working for the Bureau of Labor Statistics with the United States govern
 T-SQL, in Azure Data Studio
 
 # Database model:
-![]('9to5 Database model.jpg')
+![](9to5DatabaseModel.jpg)
